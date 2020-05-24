@@ -10,8 +10,8 @@ export default {
       htmlAttrs: {
         lang,
       },
-      title: 'palava.tv',
-      titleTemplate: 'palava.tv | %s',
+      title: 'IBM hackathon',
+      titleTemplate: 'IBM Hackathon | %s',
     }
   },
 }
